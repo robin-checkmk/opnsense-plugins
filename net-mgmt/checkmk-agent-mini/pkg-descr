@@ -1,0 +1,13 @@
+Checkmk - The IT monitoring platform. Scalable. Automated. Extensible.
+
+This package installs the Checkmk agent script into '/usr/local/sbin/check_mk_agent', so it can be called through SSH.
+There is no service management enabling querying the agent on port 6556.
+
+WWW: https://checkmk.com/
+
+Plugin Changelog
+----------------
+
+0.1
+
+* Initial release.
