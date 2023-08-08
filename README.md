@@ -69,6 +69,7 @@ net/vnstat -- Network traffic monitor
 net/wireguard -- WireGuard VPN service
 net/wol -- Wake on LAN Service
 net/zerotier -- Virtual Networks That Just Work
+net-mgmt/checkmk-mini -- Checkmk monitoring agent (minimal package)
 net-mgmt/collectd -- Collect system and application performance metrics periodically
 net-mgmt/lldpd -- LLDP allows you to know exactly on which port is a server
 net-mgmt/net-snmp -- Net-SNMP is a daemon for the SNMP protocol
